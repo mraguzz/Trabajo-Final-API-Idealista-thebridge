@@ -1,2 +1,3 @@
 # proyecto_ML
- The Bridge - Entrega Trabajo Final ML - Idealista
+Entrega Trabajo Final ML - The Bridge
+API Extracción de datos Idealista para proyección de valores y encontrar oportunidades inmobiliarias 
